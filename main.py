@@ -1,5 +1,26 @@
 import re
-from functions import *
+import requests
+from bs4 import BeautifulSoup
+
+
+def getURL(url):
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36',
+        "Upgrade-Insecure-Requests": "1", "DNT": "1",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5", "Accept-Encoding": "gzip, deflate"}
+    req_url = requests.get(url=url, headers=headers)
+    req_url.raise_for_status()
+    return req_url
+
+
+def getStringList(start_str, end_str, full_string):
+    list = []
+    for i in re.finditer(start_str, full_string):
+        idx_start = i.start()
+        idx_end = full_string.index(end_str, idx_start)
+        list.append(full_string[idx_start:idx_end])
+    return list
 
 
 if __name__ == "__main__":
@@ -9,9 +30,5 @@ if __name__ == "__main__":
     text = str(soup)
 
     # Get list of udemy courses
-    udemyURLlist = []
-    for i in re.finditer('https://www.udemy.com/course/', text):
-        idx_start = i.start()
-        idx_end   = text.index('"', idx_start)
-        udemyURLlist.append(text[idx_start:idx_end])
+    udemyURLlist = getStringList('https://www.udemy.com/course/', '"', text)
     print(udemyURLlist[0])
