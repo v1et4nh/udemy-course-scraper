@@ -14,13 +14,13 @@ def getURL(url):
     return req_url
 
 
-def getStringList(start_str, end_str, full_string):
-    list = []
-    for i in re.finditer(start_str, full_string):
+def getStringList(start_str, end_str, txt):
+    listString = []
+    for i in re.finditer(start_str, txt):
         idx_start = i.start()
-        idx_end = full_string.index(end_str, idx_start)
-        list.append(full_string[idx_start:idx_end])
-    return list
+        idx_end = txt.index(end_str, idx_start)
+        listString.append(txt[idx_start:idx_end])
+    return listString
 
 
 if __name__ == "__main__":
