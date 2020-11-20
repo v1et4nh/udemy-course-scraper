@@ -2277,3 +2277,493 @@ TimedPromise/<@chrome://marionette/content/sync.js:228:19
 TimedPromise@chrome://marionette/content/sync.js:213:10
 interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
 webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1605881319821	geckodriver	INFO	Listening on 127.0.0.1:57928
+1605881322842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIETAN~1\\AppData\\Local\\Temp\\rust_mozprofileG77j2S"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605881325613	Marionette	INFO	Listening on port 57937
+1605881325993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request failed with status code 403
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+1605881715547	Marionette	INFO	Stopped listening on port 57937
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605881821786	geckodriver	INFO	Listening on 127.0.0.1:58459
+1605881824820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIETAN~1\\AppData\\Local\\Temp\\rust_mozprofilejmQTqA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605881828433	Marionette	INFO	Listening on port 58469
+1605881828466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-web-development-course-with-php-pdo-mysql/?couponCode=0B34421152B6FD7E713F line 1686 > injectedScript, line 1: TypeError: a is null
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-resilience-course-master-emotional-resiliency/?couponCode=29DDE3E3AFFABC59B188 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-life-purpose-course-personal-success-for-you/?couponCode=51EA075567CCFA27E14D line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-personal-productivity-course-business-life/?couponCode=58DE6D090DB5B4772E87 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-focus-mastery-course-brain-concentration/?couponCode=41A8C37628351A2D6E55 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/public-speaking-for-beginners-al/?couponCode=73E492D0D8E11225CBF8 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/public-speaking-for-college-students/?couponCode=DF0402E28C637A10146A line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/public-speaking-for-kids/?couponCode=17C700E919CD05883861 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/how-to-give-an-informational-speech/?couponCode=C38FD60885D99871C959 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/how-to-drastically-reduce-time-spent-on-speech-preparation/?couponCode=B573D691CB8657060A70 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/how-to-speak-at-a-press-conference/?couponCode=A2C37471024A81263B6D line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-web-developer-bootcamp-x/?couponCode=FOR_MY_TEAMS line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/eft-your-dentist/?couponCode=EFTYDEXPNOV212020 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/fibromyalgia-7-day-challenge-health/?couponCode=FIB7DCEXPNOV212020 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/metaphysical-awakening-symptoms/?couponCode=MASSGEXPNOV212020 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/affiliate-marketing-and-organic-seo/?couponCode=AMOS2020NOV20FREE line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/ultimate-wordpress-optimization-2020/?couponCode=7BD466693DB99939FA28 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/anti-money-laundering-aml-kyc/?couponCode=AMLNOV line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/wp-for-beginners/?couponCode=YOUARETHEBEST line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=CONFLUENCENOV line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/iso-22000-haccp-and-prps-for-food-safety/?couponCode=FREEISO22000 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/online-store-e-commerce-website-in-php-mysql-from-scratch/?couponCode=6E19C5D0184D965B8597 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/mindfulness-for-depression-anxiety-ptsd-stress-sampler/?couponCode=BF28BBA4B769C202655A line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/ultimate-tkinter-python-gui-masterclass/?couponCode=FREECOURSE line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/guided-mindfulness-meditation-for-weight-loss-fitness/?couponCode=40C6FB147DD765DCE41D line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+1605882099893	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1605884124634	geckodriver	INFO	Listening on 127.0.0.1:59845
+1605884127654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIETAN~1\\AppData\\Local\\Temp\\rust_mozprofilebi1Zzy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605884130505	Marionette	INFO	Listening on port 59854
+1605884130787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-web-development-course-with-php-pdo-mysql/?couponCode=0B34421152B6FD7E713F line 1686 > injectedScript, line 1: TypeError: a is null
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-resilience-course-master-emotional-resiliency/?couponCode=29DDE3E3AFFABC59B188 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-life-purpose-course-personal-success-for-you/?couponCode=51EA075567CCFA27E14D line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-personal-productivity-course-business-life/?couponCode=58DE6D090DB5B4772E87 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-focus-mastery-course-brain-concentration/?couponCode=41A8C37628351A2D6E55 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/public-speaking-for-beginners-al/?couponCode=73E492D0D8E11225CBF8 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/public-speaking-for-college-students/?couponCode=DF0402E28C637A10146A line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/public-speaking-for-kids/?couponCode=17C700E919CD05883861 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/how-to-give-an-informational-speech/?couponCode=C38FD60885D99871C959 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/how-to-drastically-reduce-time-spent-on-speech-preparation/?couponCode=B573D691CB8657060A70 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/how-to-speak-at-a-press-conference/?couponCode=A2C37471024A81263B6D line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-web-developer-bootcamp-x/?couponCode=FOR_MY_TEAMS line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/eft-your-dentist/?couponCode=EFTYDEXPNOV212020 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/fibromyalgia-7-day-challenge-health/?couponCode=FIB7DCEXPNOV212020 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/metaphysical-awakening-symptoms/?couponCode=MASSGEXPNOV212020 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/affiliate-marketing-and-organic-seo/?couponCode=AMOS2020NOV20FREE line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/ultimate-wordpress-optimization-2020/?couponCode=7BD466693DB99939FA28 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/anti-money-laundering-aml-kyc/?couponCode=AMLNOV line 1686 > injectedScript, line 1: TypeError: a is null
+1605884395998	Marionette	INFO	Stopped listening on port 59854
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605884651354	geckodriver	INFO	Listening on 127.0.0.1:60335
+1605884654389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIETAN~1\\AppData\\Local\\Temp\\rust_mozprofile3zN2HR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605884657468	Marionette	INFO	Listening on port 60345
+1605884657534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-web-development-course-with-php-pdo-mysql/?couponCode=0B34421152B6FD7E713F line 1686 > injectedScript, line 1: TypeError: a is null
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-resilience-course-master-emotional-resiliency/?couponCode=29DDE3E3AFFABC59B188 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-life-purpose-course-personal-success-for-you/?couponCode=51EA075567CCFA27E14D line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-personal-productivity-course-business-life/?couponCode=58DE6D090DB5B4772E87 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-focus-mastery-course-brain-concentration/?couponCode=41A8C37628351A2D6E55 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/public-speaking-for-beginners-al/?couponCode=73E492D0D8E11225CBF8 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/public-speaking-for-college-students/?couponCode=DF0402E28C637A10146A line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/public-speaking-for-kids/?couponCode=17C700E919CD05883861 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/how-to-give-an-informational-speech/?couponCode=C38FD60885D99871C959 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/how-to-drastically-reduce-time-spent-on-speech-preparation/?couponCode=B573D691CB8657060A70 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/how-to-speak-at-a-press-conference/?couponCode=A2C37471024A81263B6D line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-web-developer-bootcamp-x/?couponCode=FOR_MY_TEAMS line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/eft-your-dentist/?couponCode=EFTYDEXPNOV212020 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/fibromyalgia-7-day-challenge-health/?couponCode=FIB7DCEXPNOV212020 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/metaphysical-awakening-symptoms/?couponCode=MASSGEXPNOV212020 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/affiliate-marketing-and-organic-seo/?couponCode=AMOS2020NOV20FREE line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/ultimate-wordpress-optimization-2020/?couponCode=7BD466693DB99939FA28 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/anti-money-laundering-aml-kyc/?couponCode=AMLNOV line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/wp-for-beginners/?couponCode=YOUARETHEBEST line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=CONFLUENCENOV line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/iso-22000-haccp-and-prps-for-food-safety/?couponCode=FREEISO22000 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/online-store-e-commerce-website-in-php-mysql-from-scratch/?couponCode=6E19C5D0184D965B8597 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/mindfulness-for-depression-anxiety-ptsd-stress-sampler/?couponCode=BF28BBA4B769C202655A line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/ultimate-tkinter-python-gui-masterclass/?couponCode=FREECOURSE line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/guided-mindfulness-meditation-for-weight-loss-fitness/?couponCode=40C6FB147DD765DCE41D line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+1605884932521	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/meditationforbeginners/?couponCode=FREENOV18TO21 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: , line 0: uncaught exception: undefined
+1605884953085	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/meditation-masterclass/?couponCode=FREENOV18TO21 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: , line 0: uncaught exception: undefined
+1605884974012	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1605887045597	geckodriver	INFO	Listening on 127.0.0.1:62596
+1605887048632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VIETAN~1\\AppData\\Local\\Temp\\rust_mozprofiler1sEAk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605887051601	Marionette	INFO	Listening on port 62605
+1605887051769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-web-development-course-with-php-pdo-mysql/?couponCode=0B34421152B6FD7E713F line 1686 > injectedScript, line 1: TypeError: a is null
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-resilience-course-master-emotional-resiliency/?couponCode=29DDE3E3AFFABC59B188 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-life-purpose-course-personal-success-for-you/?couponCode=51EA075567CCFA27E14D line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-personal-productivity-course-business-life/?couponCode=58DE6D090DB5B4772E87 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-complete-focus-mastery-course-brain-concentration/?couponCode=41A8C37628351A2D6E55 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/public-speaking-for-beginners-al/?couponCode=73E492D0D8E11225CBF8 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/public-speaking-for-college-students/?couponCode=DF0402E28C637A10146A line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/public-speaking-for-kids/?couponCode=17C700E919CD05883861 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/how-to-give-an-informational-speech/?couponCode=C38FD60885D99871C959 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/how-to-drastically-reduce-time-spent-on-speech-preparation/?couponCode=B573D691CB8657060A70 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/how-to-speak-at-a-press-conference/?couponCode=A2C37471024A81263B6D line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/the-web-developer-bootcamp-x/?couponCode=FOR_MY_TEAMS line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/eft-your-dentist/?couponCode=EFTYDEXPNOV212020 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/fibromyalgia-7-day-challenge-health/?couponCode=FIB7DCEXPNOV212020 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/metaphysical-awakening-symptoms/?couponCode=MASSGEXPNOV212020 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/affiliate-marketing-and-organic-seo/?couponCode=AMOS2020NOV20FREE line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/ultimate-wordpress-optimization-2020/?couponCode=7BD466693DB99939FA28 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/anti-money-laundering-aml-kyc/?couponCode=AMLNOV line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/wp-for-beginners/?couponCode=YOUARETHEBEST line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/atlassian-confluence-masterclass/?couponCode=CONFLUENCENOV line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.31a66886f80bdb2a7a6b.js, line 1: Error: Request aborted
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/iso-22000-haccp-and-prps-for-food-safety/?couponCode=FREEISO22000 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/online-store-e-commerce-website-in-php-mysql-from-scratch/?couponCode=6E19C5D0184D965B8597 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/mindfulness-for-depression-anxiety-ptsd-stress-sampler/?couponCode=BF28BBA4B769C202655A line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/ultimate-tkinter-python-gui-masterclass/?couponCode=FREECOURSE line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/guided-mindfulness-meditation-for-weight-loss-fitness/?couponCode=40C6FB147DD765DCE41D line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+1605887360733	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/meditationforbeginners/?couponCode=FREENOV18TO21 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: , line 0: uncaught exception: undefined
+1605887387302	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/meditation-masterclass/?couponCode=FREENOV18TO21 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: , line 0: uncaught exception: undefined
+1605887414269	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/meditation-for-adhd/?couponCode=FREENOV18TO21 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: , line 0: uncaught exception: undefined
+1605887441233	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/plan-and-acquire-resources-pmi-pmp/?couponCode=3D3285FEE7B52ECDA502 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/applying-lean-in-service-and-manufacturing-organizations/?couponCode=6EFF21EC3492B737FEC3 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/value-stream-mapping-in-lean-business/?couponCode=A326233E6A253D708B0A line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/course-landing-page-udlite-udlite-app.db564a36aba9da8a46fa.js, line 1: TypeError: e.response is undefined
+1605887505174	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/procurement-management-pmi-pmp/?couponCode=AB09A07F6D70C00A63E8 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: , line 0: uncaught exception: undefined
+1605887532214	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/business-analysis-perspectives-iiba-ecba/?couponCode=51E6E321F35A81791627 line 1686 > injectedScript, line 1: TypeError: a is null
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/business-analysis-perspectives-iiba-ecba/?couponCode=51E6E321F35A81791627 line 1686 > injectedScript, line 1: TypeError: a is null
+1605887563785	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-7BF3X, line 1679: uncaught exception: [object Object]
+JavaScript error: https://www.udemy.com/course/complete-seo-training-2020-easy-seo-for-wordpress-websites/?couponCode=1CBF62C231E5D5042989 line 1686 > injectedScript, line 1: TypeError: a is null
+1605887579635	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined

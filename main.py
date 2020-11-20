@@ -36,7 +36,7 @@ def getHTMLtext(url):
     return str(soup)
 
 
-def addCart(browser, urllist, timeout=5, timesleep=2):
+def addCart(browser, urllist, timeout=5, timesleep=1):
     # Config
     failedList = []
 
@@ -73,16 +73,18 @@ def addCart(browser, urllist, timeout=5, timesleep=2):
                     print(urllist[i])
                     continue
             try:
-                cart = WebDriverWait(driver, timeout+20).until(EC.presence_of_element_located((By.ID, 'cart-success-title')))
+                cart = WebDriverWait(driver, timeout+10).until(EC.presence_of_element_located((By.ID, 'cart-success-title')))
                 sleep(timesleep)
             except TimeoutException:
-                print("Loading took too much time")
+                print('Loading took too much time')
+                failedList.append(urllist[i])
+                print(urllist[i])
         else:
             print('Not free anymore')
 
 
 def main(url, browser='Firefox'):
-    # Get url-list
+    # Get url-list from mydealz page
     text = getHTMLtext(url)
     udemyURLlist = getStringList('https://www.udemy.com/course/', '"', text)
 
