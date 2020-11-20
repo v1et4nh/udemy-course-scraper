@@ -1,5 +1,12 @@
 import re
 import requests
+from time import sleep
+from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
+from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 
 
@@ -32,3 +39,34 @@ if __name__ == "__main__":
     # Get list of udemy courses
     udemyURLlist = getStringList('https://www.udemy.com/course/', '"', text)
     print(udemyURLlist[0])
+
+    # --- New ---
+    driver = webdriver.Chrome()
+    driver.get(udemyURLlist[0])
+    login_link = ''
+    while not login_link:
+        try:
+            print('Login')
+            login_link = driver.find_elements_by_link_text('Anmelden')
+            login_link.click()
+        except:
+            continue
+
+    emailID = ''
+    while not emailID:
+        try:
+            emailID = driver.find_element_by_id("email--1")
+            emailID.send_keys('v1et4nh@googlemail.com')
+            emailID.send_keys(Keys.TAB)
+            emailID.send_keys('NamAnh751968')
+            emailID.send_keys(Keys.ENTER)
+        except:
+            continue
+    # button = ''
+    # while not button:
+    #     try:
+    #         button = driver.find_elements_by_xpath('//*[@id="de"]/div[2]/div[3]/div[1]/div[2]/div/div/div/div[1]/div/div[1]/div[2]/div/div[1]/div/div[5]/div/button')
+    #         button[0].click()
+    #     except:
+    #         continue
+    # driver.close()
