@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
-from selenium.webdriver.common.keys import Keys
+# from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
 
 
@@ -30,43 +30,66 @@ def getStringList(start_str, end_str, txt):
     return listString
 
 
-if __name__ == "__main__":
-    url_orig = 'https://www.mydealz.de/deals/ubersicht-uber-40-kostenlose-udemy-kurse-web-development-cisco-firepower-pmi-pmp-atlassian-javascript-python-meditation-seo-etc-1691559'
-    url = getURL(url_orig)
+def getHTMLtext(url):
+    url = getURL(url)
     soup = BeautifulSoup(url.content, 'html.parser')
-    text = str(soup)
+    return str(soup)
 
-    # Get list of udemy courses
+
+def addCart(browser, urllist, timeout=5, timesleep=2):
+    # Config
+    failedList = []
+
+    if browser == 'Firefox':
+        driver = webdriver.Firefox()
+        xpath_button1 = '/html/body/div[2]/div[3]/div[1]/div[2]/div/div/div/div[1]/div/div[1]/div[2]/div/div[1]/div/div[4]/div/button'
+        xpath_button2 = '/html/body/div[2]/div[3]/div[1]/div[3]/div/div/div/div[1]/div/div[1]/div[2]/div/div[1]/div/div[4]/div/button'
+    elif browser == 'Chrome':
+        driver = webdriver.Chrome()
+        xpath_button1 = '//*[@id="de"]/div[2]/div[3]/div[1]/div[2]/div/div/div/div[1]/div/div[1]/div[2]/div/div[1]/div/div[4]/div/button'
+        xpath_button2 = '//*[@id="de"]/div[2]/div[3]/div[1]/div[3]/div/div/div/div[1]/div/div[1]/div[2]/div/div[1]/div/div[4]/div/button'
+    else:
+        return 0
+
+    for i in range(len(urllist)):
+        print(str(i + 1) + '/' + str(len(urllist)))
+        driver.get(urllist[i])
+        text = getHTMLtext(urllist[i])
+
+        if "<span>Kostenlos</span>" in text or "<span>Free</span>" in text:
+            try:
+                button = WebDriverWait(driver, timeout).until(EC.presence_of_element_located((By.XPATH, xpath_button1)))
+                # sleep(timesleep)
+                button.click()
+                print('Added to cart')
+            except TimeoutException:
+                try:
+                    button = WebDriverWait(driver, timeout).until(EC.presence_of_element_located((By.XPATH, xpath_button2)))
+                    button.click()
+                    print('Added to cart')
+                except TimeoutException:
+                    print("Adding to cart took too much time")
+                    failedList.append(urllist[i])
+                    print(urllist[i])
+                    continue
+            try:
+                cart = WebDriverWait(driver, timeout+20).until(EC.presence_of_element_located((By.ID, 'cart-success-title')))
+                sleep(timesleep)
+            except TimeoutException:
+                print("Loading took too much time")
+        else:
+            print('Not free anymore')
+
+
+def main(url, browser='Firefox'):
+    # Get url-list
+    text = getHTMLtext(url)
     udemyURLlist = getStringList('https://www.udemy.com/course/', '"', text)
-    print(udemyURLlist[0])
 
-    # --- New ---
-    driver = webdriver.Chrome()
-    driver.get(udemyURLlist[0])
-    login_link = ''
-    while not login_link:
-        try:
-            print('Login')
-            login_link = driver.find_elements_by_link_text('Anmelden')
-            login_link.click()
-        except:
-            continue
+    # Add courses in cart
+    addCart(browser, udemyURLlist)
 
-    emailID = ''
-    while not emailID:
-        try:
-            emailID = driver.find_element_by_id("email--1")
-            emailID.send_keys('v1et4nh@googlemail.com')
-            emailID.send_keys(Keys.TAB)
-            emailID.send_keys('NamAnh751968')
-            emailID.send_keys(Keys.ENTER)
-        except:
-            continue
-    # button = ''
-    # while not button:
-    #     try:
-    #         button = driver.find_elements_by_xpath('//*[@id="de"]/div[2]/div[3]/div[1]/div[2]/div/div/div/div[1]/div/div[1]/div[2]/div/div[1]/div/div[5]/div/button')
-    #         button[0].click()
-    #     except:
-    #         continue
-    # driver.close()
+
+if __name__ == "__main__":
+    page = 'https://www.mydealz.de/deals/ubersicht-uber-40-kostenlose-udemy-kurse-web-development-cisco-firepower-pmi-pmp-atlassian-javascript-python-meditation-seo-etc-1691559'
+    main(page)
