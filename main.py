@@ -82,6 +82,11 @@ def addCart(browser, urllist, timeout=5, timesleep=1):
         else:
             print('Not free anymore')
 
+    # Print failed links
+    print('\nLinks that didnt work: \n')
+    for i in range(len(failedList)):
+        print(failedList[i])
+
 
 def main(url, browser='Firefox'):
     # Get url-list from mydealz page
