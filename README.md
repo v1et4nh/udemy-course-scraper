@@ -13,4 +13,5 @@ Can be run in the background.
 - Later on in the for-loop, it seems to be laggy... the button is not clickable in time, so the script added it, but actually missed it <br>
 - Chrome is not working at the moment, only Firefox. For Firefox make sure to add the folder "Geckodriver" to your PATH. <br>
 
-I am happy about your contribution!
+
+<b> I am happy about your contribution! </b>
