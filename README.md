@@ -14,4 +14,5 @@ Can be run in the background.
 - Chrome is not working at the moment, only Firefox. For Firefox make sure to add the folder "Geckodriver" to your PATH. <br>
 
 
+
 <b> I am happy about your contribution! </b>
