@@ -7,7 +7,7 @@ Can be run in the background.
 - Add the folder "Geckodriver" to your PATH <br>
 - Adjust the mydealz_page within main.py. <br>
 - Start main.py. <br>
-- The script will automatically put all free udemy courses listed on that mydealz-page into cart. <br>
+- The script will automatically put all free udemy courses listed on that mydealz-page in the cart. <br>
 - At the end of the script you can login and "purchase" them all at once. <br>
 
 <h2> Some Problems unsolved </h2>
