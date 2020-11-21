@@ -3,6 +3,8 @@ This script adds all free udemy courses listed at mydealz to cart with only one 
 Can be run in the background.
 
 <h2> How to Start </h2>
+- Clone this repository <br>
+- Add the folder "Geckodriver" to your PATH <br>
 - Adjust the mydealz_page within main.py. <br>
 - Start main.py. <br>
 - The script will automatically put all free udemy courses listed on that mydealz-page into cart. <br>
