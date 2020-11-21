@@ -1,7 +1,9 @@
 # udemy-course-scraper
-Get all free udemy courses with only one click at mydealz ;)
+This script adds all free udemy courses listed at mydealz to cart with only one click ;)
+Can be run in the background.
 
-
+<h2> How to Start </h2>
+-
 Adjust the mydealz_page within main.py. <br>
 Start main.py. <br>
 The script will automatically put all free udemy courses listed on that mydealz-page into cart. <br>
