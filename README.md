@@ -2,7 +2,7 @@
 Get all free udemy courses with only one click at mydealz ;)
 
 
-Adjust the mydealz-page within main.py. <br>
+Adjust the mydealz_page within main.py. <br>
 Start main.py. <br>
 The script will automatically put all free udemy courses listed on that mydealz-page into cart. <br>
 At the end of the script you can login and "purchase" them all at once. <br>
