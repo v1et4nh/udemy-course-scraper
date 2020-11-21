@@ -93,5 +93,5 @@ def main(url, browser='Firefox'):
 
 
 if __name__ == "__main__":
-    page = 'https://www.mydealz.de/deals/ubersicht-uber-40-kostenlose-udemy-kurse-web-development-cisco-firepower-pmi-pmp-atlassian-javascript-python-meditation-seo-etc-1691559'
-    main(page)
+    mydealz_page = 'https://www.mydealz.de/deals/ubersicht-uber-55-kostenlose-udemy-kurse-python-outsourcing-meisterkurs-excel-shopify-quickbooks-english-grammar-meditationphp-etc-1693620'
+    main(mydealz_page)
