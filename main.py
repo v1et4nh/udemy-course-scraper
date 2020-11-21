@@ -83,7 +83,7 @@ def addCart(browser, urllist, timeout=5, timesleep=1):
             print('Not free anymore')
 
     # Print failed links
-    print('\nLinks that didnt work: \n')
+    print('\n++++ Links that didnt work: +++++\n')
     for i in range(len(failedList)):
         print(failedList[i])
 
