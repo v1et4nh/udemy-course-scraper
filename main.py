@@ -98,5 +98,6 @@ def main(url, browser='Firefox'):
 
 
 if __name__ == "__main__":
+    # Adjust this page
     mydealz_page = 'https://www.mydealz.de/deals/ubersicht-uber-55-kostenlose-udemy-kurse-python-outsourcing-meisterkurs-excel-shopify-quickbooks-english-grammar-meditationphp-etc-1693620'
     main(mydealz_page)
